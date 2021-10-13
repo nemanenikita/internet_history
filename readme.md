@@ -1,3 +1,3 @@
 # History of the Internet IS601
 
-[History of Internet](historyinternet.eastus.azurecontainer.io)
+[History of Internet](http://historyinternet.eastus.azurecontainer.io)
